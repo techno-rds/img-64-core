@@ -1,4 +1,5 @@
 <?php
+// Upload
 $path = $_SERVER['DOCUMENT_ROOT']."/img-64-core/image/";
 if($_POST)
 {
